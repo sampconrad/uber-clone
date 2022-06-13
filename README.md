@@ -1,6 +1,6 @@
 # Uber-clone
 
-Demo: https://sampconrad.github.io/uber-clone/
+Demo: https://expo.dev/@sampconrad/uber-clone
 
 ## About
 

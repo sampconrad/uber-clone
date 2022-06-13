@@ -28,6 +28,8 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "description": "Uber Clone app built on React Native using the Google Distance Matrix API to calculate milage, travel time, and estimate pricing for the ride, the Google Places API for the auto-complete functionality when typing, and the Google Directions API & Google Maps JS API to get a functional map that traces directions from point A to B.",
+    "githubUrl": "https://github.com/sampconrad/uber-clone"
   }
 }
